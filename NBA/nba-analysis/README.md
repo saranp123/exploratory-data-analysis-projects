@@ -28,13 +28,15 @@ Exploratory data analysis of historical NBA data (1946-2026) examining two key q
 
 ## Project Structure
 ```
-nba-eda-project/
+nba-analysis/
 ├── data/
-│   └── [CSV files]
+│   └── [CSV files - download separately]
 ├── notebooks/
 │   └── nba_analysis.ipynb
 ├── images/
-│   └── [Visualizations]
+│   ├── 3pt_volume_over_time.png
+│   ├── 3pt_volume_vs_efficiency.png
+│   └── home_court_advantage.png
 └── README.md
 ```
 
@@ -45,4 +47,6 @@ nba-eda-project/
 4. Open and run `notebooks/nba_analysis.ipynb`
 
 ## Author
-Saiganesh Pothakamuri
+**Saiganesh Pothakamuri**
+
+[GitHub](https://github.com/saranp123) | [LinkedIn](https://www.linkedin.com/in/saiganesh-pothakamuri/)
