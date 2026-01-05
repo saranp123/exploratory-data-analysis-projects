@@ -31,5 +31,5 @@ A portfolio of data analysis projects demonstrating skills in Python, data clean
 - Jupyter Notebook
 
 ## Contact
-GitHub: [@saranp123](https://github.com/saranp123)
-\nLinkedIn: [Saiganesh Pothakamuri](https://www.linkedin.com/in/saiganesh-pothakamuri/)
+GitHub: [@saranp123](https://github.com/saranp123)  
+LinkedIn: [Saiganesh Pothakamuri](https://www.linkedin.com/in/saiganesh-pothakamuri/)
