@@ -32,4 +32,4 @@ A portfolio of data analysis projects demonstrating skills in Python, data clean
 
 ## Contact
 GitHub: [@saranp123](https://github.com/saranp123)
-LinkedIn: [Saiganesh Pothakamuri](https://www.linkedin.com/in/saiganesh-pothakamuri/)
+\nLinkedIn: [Saiganesh Pothakamuri](https://www.linkedin.com/in/saiganesh-pothakamuri/)
