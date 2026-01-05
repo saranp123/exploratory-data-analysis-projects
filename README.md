@@ -25,10 +25,11 @@ A portfolio of data analysis projects demonstrating skills in Python, data clean
 - Working with large datasets (1.6M+ records)
 
 ## Technologies
-- Python 3.x
+- Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
 ## Contact
 GitHub: [@saranp123](https://github.com/saranp123)
+LinkedIn: [Saiganesh Pothakamuri](https://www.linkedin.com/in/saiganesh-pothakamuri/)
