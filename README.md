@@ -1,6 +1,6 @@
 # Exploratory Data Analysis Projects
 
-A portfolio of data analysis projects demonstrating skills in Python, data cleaning, statistical analysis, and visualization.
+A portfolio of data analysis projects demonstrating skills in Python, Excel, data cleaning, statistical analysis, and visualization.
 
 ## Projects
 
@@ -36,20 +36,38 @@ A portfolio of data analysis projects demonstrating skills in Python, data clean
 
 ---
 
+### 3. Bike Buyers Analysis
+
+**Location**: [Bike Buyers Analysis/](./Bike%20Buyers%20Analysis/)
+
+**Technologies**: Microsoft Excel
+
+**Key Features**:
+
+* Analyze customer demographics and lifestyle factors influencing bike purchases
+* Compare purchasing behavior across age, income, gender, and marital status
+* Explore the impact of commute distance, car ownership, and home ownership
+* Use pivot tables and charts to identify trends and patterns
+
+[View Project Files →](./Bike%20Buyers%20Analysis/)
+
+---
+
 ## Skills Demonstrated
 
-* Data cleaning and preprocessing with Pandas
-* Time series analysis and aggregation
-* Statistical comparison analysis
-* Data visualization with Matplotlib/Seaborn
-* Working with large datasets (1.6M+ records)
-* Interactive dashboard creation with Tableau
+* Data cleaning and preprocessing
+* Exploratory data analysis (EDA)
+* Statistical comparison and trend analysis
+* Data visualization (Excel, Matplotlib, Seaborn)
+* Working with structured datasets
+* Interactive dashboard creation (Tableau)
 
 ## Technologies
 
 * Python
 * Pandas, NumPy
 * Matplotlib, Seaborn
+* Microsoft Excel
 * Jupyter Notebook
 * Tableau Public
 
@@ -57,3 +75,5 @@ A portfolio of data analysis projects demonstrating skills in Python, data clean
 
 GitHub: [@saranp123](https://github.com/saranp123)
 LinkedIn: [Saiganesh Pothakamuri](https://www.linkedin.com/in/saiganesh-pothakamuri/)
+
+Just say the word.
