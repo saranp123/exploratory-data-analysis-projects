@@ -33,5 +33,3 @@ This project analyzes customer demographic and lifestyle data to understand purc
 
 * Built with Microsoft Excel
 * Uses Excel tables, pivot tables, and charts for analysis
-
-Just tell me.
