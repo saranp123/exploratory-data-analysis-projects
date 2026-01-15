@@ -75,5 +75,3 @@ A portfolio of data analysis projects demonstrating skills in Python, Excel, dat
 
 GitHub: [@saranp123](https://github.com/saranp123)
 LinkedIn: [Saiganesh Pothakamuri](https://www.linkedin.com/in/saiganesh-pothakamuri/)
-
-Just say the word.
